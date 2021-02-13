@@ -10,6 +10,8 @@ Airports are indicated using a flag icon. A *green* flag indicates the airport h
 
 * [Leaflet](https://leafletjs.com/)
 * [Font Awesome](https://fontawesome.com/)
+* [jQuery](https://jquery.com/)
+* [chroma.js](https://gka.github.io/chroma.js/)
 
 **Acknowledgment**
 
